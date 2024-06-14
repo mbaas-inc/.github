@@ -1,6 +1,6 @@
 ## About us 👋
 
-![mbaas logo]()
+![mbaas logo](https://github.com/mbaas-inc/.github/blob/main/profile/aiapp.png)
 
 앱 제작의 첫걸음 기획부터, 앱 개발까지 모두 한번에 누구나 쉽고 빠르게, 나만의 앱 만들기
 
