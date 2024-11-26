@@ -6,4 +6,4 @@
 
 ### :rocket: More information
 
-- 홈페이지: [https://www.mbaas.kr](https://www.aiapp.help)
+- 홈페이지: [https://www.mbaas.kr](https://www.mbaas.kr)
